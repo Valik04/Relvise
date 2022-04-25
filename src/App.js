@@ -48,7 +48,7 @@ function App() {
               <p>Here at ThriveTalk, our licensed therapists provide the same quality care you would get in office from anywhere you can access your laptop or mobile phone. Become your best self with ThriveTalk.  Start therapy now with a licensed therapist!</p>
               </div>
           </div>
-              <img src="../images/1.png" alt=""/>
+              <img src={process.env.PUBLIC_URL + "/images/1.png"} alt=""/>
           </div>
 
 
@@ -139,7 +139,7 @@ function App() {
           </div>
 
           <div className='item'>
-              <img src="../images/2.png" alt=""/>
+              <img src={process.env.PUBLIC_URL + "/images/2.png"} alt=""/>
               <div className='item-block'>
                   <p>YOU SHOULD ALSO KNOW</p>
                   <h3>MDD affects more than 16.1 million American adults, or about 6.7%of the U.S. population age 18 and older in a given year. We at ThriveTalk can help you.</h3>
@@ -154,11 +154,11 @@ function App() {
                   <h4>Take the free online assessment to see if you are a candidate and get started on your journey.</h4>
                   <h5>GET HELP NOW</h5>
               </div>
-              <img src="../images/3.png" alt=""/>
+              <img src={process.env.PUBLIC_URL + "/images/3.png"} alt=""/>
           </div>
 
           <div className='footer'>
-              <img src="../images/4.png" alt=""/>
+              <img src={process.env.PUBLIC_URL + "/images/4.png"} alt=""/>
 
               <div className="footer-info">
                   <div className="footer-card1">
