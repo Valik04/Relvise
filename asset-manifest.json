@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Relvise/static/css/main.31e6d982.css",
+    "main.js": "/Relvise/static/js/main.abf863a7.js",
+    "index.html": "/Relvise/index.html",
+    "main.31e6d982.css.map": "/Relvise/static/css/main.31e6d982.css.map",
+    "main.abf863a7.js.map": "/Relvise/static/js/main.abf863a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31e6d982.css",
+    "static/js/main.abf863a7.js"
+  ]
+}
